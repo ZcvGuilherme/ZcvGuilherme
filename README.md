@@ -1,8 +1,8 @@
 ## Olá, eu sou Guilherme Sousa
 
-- 🔭 Atualmente estudando e aprofundando SQl e Pyhton, na área de Back-End.
-- 🌱 Aprofundando Java e suas aplicações.
-- 📚 Estudando padrões de projetos.
+- 🔭 Sempre estudando e aprofundando na área de Back-End.
+- 🌱 Aprofundando web Frameworks em Python e suas aplicações.
+- 📚 Estudando sobre código limpo e engenharia de software (obrigado Robert C. Martin).
 <div>
   <a href="https://github.com/ZcvGuilherme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZcvGuilherme&theme=blue-green&show_icons=true&hide_border=true&count_private=true)"/>
